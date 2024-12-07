@@ -1,9 +1,10 @@
 import React from 'react';
+import MuchManyQuiz from './components/MuchManyQuiz';
 
 function App() {
   return (
     <div className="App">
-      <h1>My Quiz App</h1>
+      <MuchManyQuiz />
     </div>
   );
 }
